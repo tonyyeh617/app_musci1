@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="sound_options">
+        <item>Rainforest</item>
+        <item>City Cafe</item>
+        <item>Ocean Waves</item>
+    </string-array>
+</resources>
